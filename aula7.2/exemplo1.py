@@ -27,18 +27,18 @@
 # nome = input('qual o seu nome: ')
 # saudacao(nome)
 
-def somar(a, b):
-    soma = a + b
-    print(soma)
+# def somar(a, b):
+#     soma = a + b
+#     print(soma)
 
 
-soma = 0
-somar(4, 5)
-print(f'O valor da variavel soma é {soma}')
+# soma = 0
+# somar(4, 5)
+# print(f'O valor da variavel soma é {soma}')
 
-def somar_numeros(x, y):
-    s = x + y
-    return s
+# def somar_numeros(x, y):
+#     s = x + y
+#     return s
 
 
 # for i in range(3):
